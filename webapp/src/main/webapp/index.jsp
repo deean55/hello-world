@@ -33,7 +33,6 @@
 
    <h1> Thankyou, Happy Learning Deepak </h1>
    <h1> Update by Poll SCM </h1>
-   <h1> New Configururation in Jenkins </h1>
-
+   
   
 </form>
