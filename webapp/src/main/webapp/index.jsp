@@ -35,5 +35,5 @@
    <h1> Update by Poll SCM </h1>
    <h1> Auto Build and Deploy </h1>
    <h1> Final Check </h1>
-   <h1> Kubernetes auto build and deploy </h1>
+   <h1> Kubernetes build and deploy from Jenkins </h1>
 </form>
